@@ -9,7 +9,10 @@
     <div id="clock">
         <img src="clockimage.png" alt="Clock Image">
         <p id="time">Loading...</p>
-    </div>
+
+        RUN THIS FILE IN pycharm or IDLE
+        
+    
   
 </body>
 </html>
